@@ -290,31 +290,34 @@ Follow these steps to run the project locally:
 
 ```bash
 CHAT_APP/
-├── backend/ # Node.js + Express backend
-│ ├── controllers/
-│ ├── db/
-│ ├── middleware/
-│ ├── models/
-│ ├── routes/
-│ ├── socket/
-│ ├── utils/
-│ └── server.js
+├── 📂 backend/                    # 🧠 Backend - Node.js + Express
+│   ├── 📂 controllers/            # 🎯 Handles request logic
+│   ├── 📂 db/                     # 🗄️ Database connection/config
+│   ├── 📂 middleware/            # 🛡️ Auth & other middleware
+│   ├── 📂 models/                # 🧬 Mongoose models/schemas
+│   ├── 📂 routes/                # 🚏 API route definitions
+│   ├── 📂 socket/                # 🔌 Real-time Socket.io handlers
+│   ├── 📂 utils/                 # 🧰 Helper functions
+│   └── 📄 server.js              # 🚀 Backend entry point
 │
-├── frontend/ # React frontend (Vite)
-│ ├── dist/
-│ ├── public/
-│ ├── src/
-│ │ ├── assets/
-│ │ ├── components/
-│ │ ├── context/
-│ │ ├── hooks/
-│ │ ├── pages/
-│ │ ├── utils/
-│ │ ├── zustand/
-│ │ └── main.jsx, App.jsx, etc.
-│ └── index.html, package.json, tailwind config
+├── 📂 frontend/                  # 💻 Frontend - React + Vite
+│   ├── 📂 dist/                  # 📦 Build output
+│   ├── 📂 public/                # 🌐 Static assets
+│   ├── 📂 src/                   # 🧩 Source code
+│   │   ├── 📂 assets/            # 🖼️ Images, icons, etc.
+│   │   ├── 📂 components/        # 🧱 Reusable UI components
+│   │   ├── 📂 context/           # 🌍 React Context API
+│   │   ├── 📂 hooks/             # 🪝 Custom React hooks
+│   │   ├── 📂 pages/             # 📄 Page components (routes)
+│   │   ├── 📂 utils/             # 🛠️ Frontend utilities
+│   │   ├── 📂 zustand/           # 🧠 Zustand state management
+│   │   ├── 📄 App.jsx            # 🧭 Root component
+│   │   └── 📄 main.jsx           # 🎬 React entry point
+│   ├── 📄 index.html             # 🏠 HTML template
+│   ├── 📄 package.json           # 📦 Frontend dependencies
+│   └── 📄 tailwind.config.js     # 🎨 Tailwind CSS configuration
 │
-├── .env # Environment variables
-├── .gitignore
-├── package.json # Backend dependencies
-└── README.md
+├── 📄 .env                       # 🔐 Environment variables
+├── 📄 .gitignore                 # 🙈 Git ignored files
+├── 📄 package.json               # 📦 Backend dependencies
+└── 📄 README.md                  # 📝 Project documentation
