@@ -230,28 +230,6 @@
 
 ---
 
-## 🚀 Quick Start
-
-1. Clone the repo  
-   `git clone https://github.com/yourusername/chat-app.git`
-
-2. Install backend dependencies  
-   `cd backend && npm install`
-
-3. Install frontend dependencies  
-   `cd ../frontend && npm install`
-
-4. Setup `.env` files (add example env variables here or link `.env.example`)
-
-5. Run backend server  
-   `npm run dev` (or your script)
-
-6. Run frontend  
-   `npm run dev`
-
-7. Open `http://localhost:3000` in your browser
-
----
 
 ## 📄 License
 This project is currently unlicensed.  
@@ -267,18 +245,46 @@ Contributions are welcome! Please open issues or pull requests for improvements 
 ## 📬 Contact
 
 <p align="center">
-Created by Harshavardhan Sai Divvala —  
-<a href="http://linkedin.com/in/d-harshavardhan-sai">🔗 LinkedIn</a> | 
-<a href="https://www.instagram.com/ha_darling_ha?igsh=djhlbWp4Y2p2aTU5">📸 Instagram</a>
+  Created by <strong>Harshavardhan Sai Divvala</strong> — <br/><br/>
+  <a href="https://www.linkedin.com/in/d-harshavardhan-sai" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" style="margin-right:10px;" />
+  </a>
+  <a href="https://www.instagram.com/ha_darling_ha?igsh=djhlbWp4Y2p2aTU5" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="30" />
+  </a>
 </p>
 
 <p align="center">
-- feel free to reach out!
+  — feel free to reach out!
 </p>
-
 
  ---
 
+## ⚡ Quick Start
+
+Follow these steps to run the project locally:
+
+```bash
+#1. Clone the repo  
+   `git clone https://github.com/yourusername/chat-app.git`
+
+#2. Install backend dependencies  
+   `cd backend && npm install`
+
+#3. Install frontend dependencies  
+   `cd ../frontend && npm install`
+
+#4. Setup `.env` files (add example env variables here or link `.env.example`)
+
+#5. Run backend server  
+   `npm run dev` (or your script)
+
+#6. Run frontend  
+   `npm run dev`
+
+7. Open `http://localhost:3000` in your browser
+
+---
  
 ## 📁 Folder Structure (Basic Overview)
 
@@ -312,7 +318,3 @@ CHAT_APP/
 ├── .gitignore
 ├── package.json # Backend dependencies
 └── README.md
-
-
-
-
