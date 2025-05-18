@@ -99,9 +99,38 @@
 ### ☁️ Deployment **[Render](https://render.com/)** 
 - 🟦 Render (for backend)
 
+---
+
+## 📄 License
+This project is currently unlicensed.  
+Feel free to contact me for any questions regarding usage or contributions.
 
 ---
 
+## 🤝 Contributing
+Contributions are welcome! Please open issues or pull requests for improvements or bug fixes.
+
+---
+
+## 📬 Contact
+
+<p align="center">
+  Created by <strong>Harshavardhan Sai Divvala</strong> — <br/><br/>
+  <a href="https://www.linkedin.com/in/d-harshavardhan-sai" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" style="margin-right:10px;" />
+  </a>
+  <a href="https://www.instagram.com/ha_darling_ha?igsh=djhlbWp4Y2p2aTU5" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="30" />
+  </a>
+</p>
+
+<p align="center">
+  — feel free to reach out!
+</p>
+
+ ---
+
+ 
 ## 📸 Screenshots
 ### 📝 1. Sign Up Page
 <img src="https://github.com/user-attachments/assets/63011062-871b-48b2-a8fd-13fe5e012b02" width="400"/>
@@ -229,36 +258,6 @@
 <img src="https://github.com/user-attachments/assets/41ac0aa0-27bb-465e-89c1-2c6cadf923bc" width="400"/>
 
 ---
-
-
-## 📄 License
-This project is currently unlicensed.  
-Feel free to contact me for any questions regarding usage or contributions.
-
----
-
-## 🤝 Contributing
-Contributions are welcome! Please open issues or pull requests for improvements or bug fixes.
-
----
-
-## 📬 Contact
-
-<p align="center">
-  Created by <strong>Harshavardhan Sai Divvala</strong> — <br/><br/>
-  <a href="https://www.linkedin.com/in/d-harshavardhan-sai" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" style="margin-right:10px;" />
-  </a>
-  <a href="https://www.instagram.com/ha_darling_ha?igsh=djhlbWp4Y2p2aTU5" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="30" />
-  </a>
-</p>
-
-<p align="center">
-  — feel free to reach out!
-</p>
-
- ---
 
 ## ⚡ Quick Start
 
