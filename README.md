@@ -97,7 +97,7 @@
 - 🔄 Git & GitHub (for version control)
 
 ### ☁️ Deployment **[Render](https://render.com/)** 
-- 🟦 Render (for backend)
+- 🟦 Render 
 
 ---
 
