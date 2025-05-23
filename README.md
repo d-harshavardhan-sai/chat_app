@@ -265,7 +265,7 @@ Follow these steps to run the project locally:
 
 ```bash
 #1. Clone the repo  
-   `git clone https://github.com/yourusername/chat-app.git`
+   `https://github.com/d-harshavardhan-sai/chat_app.git`
 
 #2. Install backend dependencies  
    `cd backend && npm install`
@@ -276,7 +276,7 @@ Follow these steps to run the project locally:
 #4. Setup `.env` files (add example env variables here or link `.env.example`)
 
 #5. Run backend server  
-   `npm run dev` (or your script)
+   `npm run dev` 
 
 #6. Run frontend  
    `npm run dev`
