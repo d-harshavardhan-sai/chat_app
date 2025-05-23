@@ -264,24 +264,25 @@ Contributions are welcome! Please open issues or pull requests for improvements 
 Follow these steps to run the project locally:
 
 ```bash
-#1. Clone the repo  
-   `https://github.com/d-harshavardhan-sai/chat_app.git`
-
-#2. Install backend dependencies  
-   `cd backend && npm install`
-
-#3. Install frontend dependencies  
-   `cd ../frontend && npm install`
-
-#4. Setup `.env` files (add example env variables here or link `.env.example`)
-
-#5. Run backend server  
-   `npm run dev` 
-
-#6. Run frontend  
-   `npm run dev`
-
-7. Open `http://localhost:3000` in your browser
+1) Create a directory and open it in vscode or in terminal
+ > git clone GitHub - d-harshavardhan-sai/chat_app
+ > cd chat_app
+2) Install Backend Dependencies
+ > npm install
+3) Create a .env file in chat_app directory and add MONGO_DB_URI, JWT_SECRET, PORT,
+ NODE_ENV
+ make sure to give port as 5000
+4) Start Backend server
+ > cd backend
+ > npm run server
+5) Open new ternimal without closing the old terminal in the same directory
+ > cd chat_app
+6) Install Frontend Dependencies
+ > cd frontend
+ > npm install
+7) Start the React Development Server
+ > npm run dev
+8) Open “http://localhost:5173” in your server
 
 ---
  
