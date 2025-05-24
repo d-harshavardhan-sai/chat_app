@@ -116,6 +116,9 @@ Contributions are welcome! Please open issues or pull requests for improvements 
 
 <p align="center">
   Created by <strong>Harshavardhan Sai Divvala</strong> — <br/><br/>
+  <a href="https://portfolio-harsha-three.vercel.app/">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/d-harshavardhan-sai" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" style="margin-right:10px;" />
   </a>
